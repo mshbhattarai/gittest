@@ -1,0 +1,7 @@
+The quality control is the operational techniques and activities that are used to fulfill requirements for quality of the product but quality assurance is the planned and systamatic activities implemented to provide adequate confidence
+that an entity will fulfill requirements for quality.
+
+In case of car manufacuring company,quality assurance would be to follow the proper steps of the car designing process like the composition of the metal or alloy and where the bolts and screw are to be places and to conform that the car is manufacured to the exact specification you need.
+
+but quality control would be the physical and the mechanical tests of the car to ensure that it fullfils the requirements of the costumer. After being built, each car is tested for problems like fluid and air leaks, mechanical problems and proper assemblly.
+

@@ -1,0 +1,14 @@
+As the use of mobile phones in the recent years have incresed vastly and People are constantly using their smartphones, and those services that make it convenient for consumers to purchase.But in the early days if we saw something we would want to buy while browsing through the phone,it would be a pain to purchase it.so as the people may be wondering which is better a mobile app or a mobile optimized webiste.however the best answer is very likely both.
+
+A website serves its purpose best when a person is searching for a product. It is much easier to stumble on or otherwise become aware of an online store if they have a mobile site.
+
+A mobile app gives storeowners the ability to bypass the clutter of email inboxes or Facebook feeds and send a message directly to all of their users. They can even send deals or coupons that can be instantly redeemed through a mobile device.
+so in my opinion both are equally useful and must be developed simultaneously.
+
+plannings:
+1.finalize the requirements
+2.cost estimation
+3.time estimation
+4.developing the prototype
+5.prototype acceptance
+6.start development
